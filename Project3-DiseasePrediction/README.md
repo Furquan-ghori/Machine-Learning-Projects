@@ -1,0 +1,1 @@
+The dataset has features in the form of various symptoms (like fever, headache etc) while the label is disease. So the objective of this project is to predict the correct disease based on the simultaneous occurence of one of more of symptoms detected in patient.
